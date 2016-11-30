@@ -1,0 +1,10 @@
+“SENGOKU LUDO” 
+MENGGUNAKAN STRAWBERRY PROLOG
+	
+Nama 			: Syaiful Haq Al Furuqi
+NPM			: 5A413515
+Kelas			: 3IA26
+Fakultas 		: Teknologi Industri
+Jurusan 		: Teknik Informatika
+Jenjang			: S1
+Penanggung Jawab (PJ)	: Aziz Sudrajat
